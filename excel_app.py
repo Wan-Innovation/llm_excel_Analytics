@@ -23,21 +23,21 @@ st.set_page_config(
 # 模型配置
 OPENAI_MODELS = {
     'gemini-2.0-flash': {
-        'api_key': "sk-Pr1eb9lR0QMuaCPUNCeKNurgw7l0rDBci5cGzSWSnbhgmDto",
+        'api_key': "sk-Pr1eb9lR0QMuaC*****8to",
         'api_base': "https://api.gptoai.top/v1",
         'temperature': 0.7,
         'provider': 'openai'
     },
 
     'gpt-4': {
-        'api_key': "sk-Pr1eb9lR0QMuaCPUNCeKNurgw7l0rDBci5cGzSWSnbhgmDto",
+        'api_key': "sk-Pr1eb9lR0QMuaCPUNCeKNur*********to",
         'api_base': "https://api.gptoai.top/v1",
         'temperature': 0.7,
         'provider': 'openai'
     },
 
     'glm-4-flash': {
-        'api_key': "d3ed095dcfc78e39351d92c2cbe4ecb8.keIS6XyCAXRthAi4",
+        'api_key': "d3ed095dcfc7********i4",
         'api_base': "https://open.bigmodel.cn/api/paas/v4/chat/completions",
         'temperature': 0.7,
         'provider': 'zhipu'  # 智谱AI
